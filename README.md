@@ -62,11 +62,21 @@ Run it with:
 - -casellesexplorades — Marks all visited cells during the search.  
 - -info — Displays additional information (steps, iterations, path length, etc.).  
 
-### Example
+## Example Mazes
 
-./escapa bfs labyrinth.txt -info
+This repository includes seven example maze files:
 
----
+- laberint1.txt  
+- laberint2.txt  
+- laberint3.txt  
+- laberint4.txt  
+- laberint5.txt  
+- laberint6.txt  
+- laberint7.txt  
+
+You can test the program with any of them, for example:
+
+./escapa bfs laberint3.txt -info
 
 ## Algorithm Overview
 

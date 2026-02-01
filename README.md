@@ -133,5 +133,5 @@ Return values:
 
 ## License
 
-This project was developed for the course “Eines Informàtiques per a les Matemàtiques”.  
-You may adapt, improve, or reuse it freely.
+All Rights Reserved. This project is publicly visible but may not be copied, modified, or redistributed.
+

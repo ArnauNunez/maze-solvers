@@ -1,0 +1,31 @@
+# Compiled object files
+*.o
+*.obj
+
+# Executables
+a.out
+*.exe
+escapa
+
+# Debug files
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*~
+
+# macOS system files
+.DS_Store
+
+# Linux system files
+.Trash-*
+
+# Backup files
+*.bak
+*.old
+
+# Editor-specific files
+.vscode/
+.idea/
+*.swp
